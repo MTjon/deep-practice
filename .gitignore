@@ -1,0 +1,8 @@
+# Ignore ipynb checkpoints
+notebooks/.ipynb_checkpoints/
+
+# Do not sync any of the files in the following dir(s)
+data/**
+
+# except for README's
+!data/README.md
